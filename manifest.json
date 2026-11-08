@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "bentoml",
+  "repo": "llm-router",
+  "versions": [
+    {
+      "commit": "322dcbb7dc53710f0239387a68de06f88c8204cc",
+      "parsed_at": "2026-11-08T06:03:31.341270+00:00",
+      "filetree": "filetree/322dcbb7dc53710f0239387a68de06f88c8204cc.nq.gz",
+      "blobs": [
+        "blob/edda27eafe72a117c6e3531c1c5341f862c9b6e0.nq.gz",
+        "blob/9beca3c64531f796a69e1638b133bfcc8f33a5ab.nq.gz",
+        "blob/9c3656ae8432f7396c0f1a3f7f3a137cc8f4841e.nq.gz",
+        "blob/82f927558a3dff0ea8c20858856e70779fd02c93.nq.gz",
+        "blob/d9e02b7256a9d03c4ceeaa9fb0a44e8ffa5bd2e0.nq.gz",
+        "blob/9f57d1c5030a2b21bd4f7da5ea2a54960b08af6a.nq.gz",
+        "blob/b7fbfb72192f2c8477985bd38d58d491c37201a7.nq.gz",
+        "blob/bfd2c78a207e53e9f8bcdcbf39bdf5ce1fb1839e.nq.gz",
+        "blob/493c5aa46a4fd7a0f6c080e90279c3a5c845dd32.nq.gz",
+        "blob/d9cf1150b84cca06b20e7dcae3a5941ad67e1d87.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
