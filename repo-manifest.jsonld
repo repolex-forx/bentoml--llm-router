@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bentoml/llm-router/commit/322dcbb7dc53710f0239387a68de06f88c8204cc",
       "git:hexsha": "322dcbb7dc53710f0239387a68de06f88c8204cc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T06:06:09.556272+00:00"
     }
   ]
 }
